@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyPlugin1", "MyPlugin1\MyPlugin1.csproj", "{DA8D4423-FB7C-44F9-84DD-ED594D1B3F64}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Veinminer", "Veinminer\Veinminer.csproj", "{DA8D4423-FB7C-44F9-84DD-ED594D1B3F64}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
